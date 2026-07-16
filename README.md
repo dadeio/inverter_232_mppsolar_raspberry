@@ -1,5 +1,5 @@
 # inverter_232_mppsolar_raspberry
-Modem Red project to comunicate with the chiese inverter and storie data in the include database
+Node Red project to comunicate with the chinese inverter and store data in the included database
 
 
 //LINKS TO WEBSITE USED TO LEARN NODERED AND 232 COMUNICATION
